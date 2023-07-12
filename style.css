@@ -70,3 +70,22 @@ body{
 .link-bio a:hover{
     background: var(--cor-hover);
 }
+
+.tabela {
+    color: #ffffff;
+    background-color: rgb(103, 71, 71);
+    border-radius: 5px;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.tabela-info {
+    justify-content: center;
+    align-items: center;
+}
+
+.tabela-titulo {
+    justify-content: center;
+    align-items: center;
+}
